@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text added from master branch
+=======
+text added in Bugfix branch
+>>>>>>> Bugfix
